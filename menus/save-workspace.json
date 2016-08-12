@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Save save-workspace",
+        "command": "save-workspace:save"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "save-workspace",
+          "submenu": [
+            {
+              "label": "Save",
+              "command": "save-workspace:save"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

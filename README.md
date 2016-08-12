@@ -1,2 +1,5 @@
-# save-workspace-atom-plugin
-If you are working on different project in one time this plugin allows you to save your workspace,   all your opened tabs, cursor position, etc. for each task
+# save-workspace-atom-plugin package
+
+A short description of your package.
+
+![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)

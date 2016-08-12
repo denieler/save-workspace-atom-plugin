@@ -1,0 +1,18 @@
+{
+  "name": "save-workspace",
+  "main": "./lib/save-workspace",
+  "version": "0.0.1",
+  "description": "If you are working on different project in one time this plugin allows you to save your workspace, all your opened tabs, cursor position, etc. for each task",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "save-workspace:toggle"
+  },
+  "repository": "https://github.com/atom/save-workspace-atom-plugin",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

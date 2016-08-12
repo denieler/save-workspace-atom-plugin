@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "save-workspace-atom-plugin:toggle"
+    "ctrl-alt-s": "save-workspace:save",
+    "ctrl-alt-o": "save-workspace:open"
   }
 }

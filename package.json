@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "save-workspace:toggle"
+    "atom-workspace": "save-workspace:save"
   },
   "repository": "https://github.com/atom/save-workspace-atom-plugin",
   "license": "MIT",

@@ -1,9 +1,15 @@
 {
   "name": "save-workspace",
   "main": "./lib/save-workspace",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "If you work with few projects same time this plugin give you the opportunity to change your workspace faster.  Save your workspace, all your opened tabs, cursor position, etc. for each task you are working with.",
-  "keywords": ["workspace", "save", "open", "workspaces", "environment"],
+  "keywords": [
+    "workspace",
+    "save",
+    "open",
+    "workspaces",
+    "environment"
+  ],
   "repository": "https://github.com/denieler/save-workspace-atom-plugin",
   "license": "MIT",
   "engines": {

@@ -8,6 +8,7 @@ If you work with few projects same time this plugin give you the opportunity to 
 
 ### Installation
 
+Install package through Atom or use Atom CLI:
 ```
 $ apm install save-workspace
 ```

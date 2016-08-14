@@ -1,7 +1,7 @@
 {
   "name": "save-workspace",
   "main": "./lib/save-workspace",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "If you work with few projects same time this plugin give you the opportunity to change your workspace faster.  Save your workspace, all your opened tabs, cursor position, etc. for each task you are working with.",
   "keywords": [
     "workspace",

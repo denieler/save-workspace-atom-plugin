@@ -6,7 +6,7 @@ Save Workspace
 
 If you work with few projects same time this plugin give you the opportunity to change your workspace faster.  Save your workspace, all your opened tabs, cursor position, etc. for each task you are working with.
 
-![](http://i.imgur.com/a/PxGnh.gif)
+![](http://i.giphy.com/3oz8xE70UnqmdFVZqo.gif)
 
 ### Installation
 

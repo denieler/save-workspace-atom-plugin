@@ -6,3 +6,6 @@
 
 ## 0.2.5 - Release
 * Fixed urgent bug with startup package
+
+## 0.2.6 - Release
+* Close all active tabs before open saved workspace

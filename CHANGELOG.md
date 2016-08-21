@@ -9,3 +9,6 @@
 
 ## 0.2.6 - Release
 * Close all active tabs before open saved workspace
+
+## 0.2.8 - Release
+* Add opportunity to save/load workspaces with split tabs/panes.

@@ -12,3 +12,6 @@
 
 ## 0.2.8 - Release
 * Add opportunity to save/load workspaces with split tabs/panes.
+
+## 0.2.9 - Release
+* Add opportunity to remove workspaces.

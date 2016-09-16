@@ -16,6 +16,10 @@
             {
               "label": "Open",
               "command": "save-workspace:open"
+            },
+            {
+              "label": "Remove",
+              "command": "save-workspace:remove"
             }
           ]
         }

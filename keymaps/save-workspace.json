@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "ctrl-alt-s": "save-workspace:save",
-    "ctrl-alt-o": "save-workspace:open"
+    "ctrl-alt-o": "save-workspace:open",
+    "ctrl-alt-r": "save-workspace:remove"
   }
 }

@@ -15,3 +15,6 @@
 
 ## 0.2.9 - Release
 * Add opportunity to remove workspaces.
+
+## 0.3.0 - Release
+* Fix bugs with splited panes

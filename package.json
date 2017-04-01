@@ -5,7 +5,7 @@
   "description": "If you work with few projects same time this plugin give you the opportunity to change your workspace faster.  Save your workspace, all your opened tabs, cursor position, etc. for each task you are working with.",
   "scripts": {
     "publish": "apm publish minor",
-    "publish_fix": "apm publish patch"
+    "publish-fix": "apm publish patch"
   },
   "keywords": [
     "workspace",

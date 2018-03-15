@@ -26,6 +26,8 @@ module.exports = {
         ]
     },
     "globals": {
-        "atom": true
+        "atom": true,
+        "it": true,
+        "expect": true
     }
 };
